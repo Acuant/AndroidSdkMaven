@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <metadata>
     <groupId>com.acuant</groupId>
-    <artifactId>acuantfacematch</artifactId>
+    <artifactId>acuantdocumentprocessing</artifactId>
     <version>11.4.13</version>
     <versioning>
       <latest>11.4.13</latest>
@@ -33,6 +33,6 @@
         <version>11.4.7</version>
         <version>11.4.9</version>
       </versions>
-      <lastUpdated>20210525000513</lastUpdated>
+      <lastUpdated>20210525000512</lastUpdated>
     </versioning>
   </metadata>
