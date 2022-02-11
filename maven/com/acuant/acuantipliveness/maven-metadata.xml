@@ -2,14 +2,15 @@
   <metadata>
     <groupId>com.acuant</groupId>
     <artifactId>acuantipliveness</artifactId>
-    <version>11.5.0</version>
+    <version>11.5.1</version>
     <versioning>
-      <latest>11.5.0</latest>
-      <release>11.5.0</release>
+      <latest>11.5.1</latest>
+      <release>11.5.1</release>
       <versions>
         <version>11.4.11</version>
         <version>11.4.16</version>
         <version>11.4.10</version>
+        <version>11.5.1</version>
         <version>11.5.0</version>
         <version>11.2.0.1</version>
         <version>11.4.2</version>
@@ -37,6 +38,6 @@
         <version>11.4.7</version>
         <version>11.4.9</version>
       </versions>
-      <lastUpdated>20211229225333</lastUpdated>
+      <lastUpdated>20220209195124</lastUpdated>
     </versioning>
   </metadata>
